@@ -4,6 +4,11 @@
 	<groupId>org.rjung.util</groupId>
 	<artifactId>jenkins-launchpad</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
+	<prerequisites>
+		<maven>3.0.2</maven>
+	</prerequisites>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.rjung.util</groupId>
